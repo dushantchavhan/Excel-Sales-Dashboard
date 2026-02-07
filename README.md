@@ -46,4 +46,3 @@ The dashboard provides quick insights into:
 
 ## 🔹 Author
 **Dushant**  
-System Engineer | Aspiring Full Stack Java Developer
